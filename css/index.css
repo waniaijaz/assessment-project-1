@@ -1,0 +1,61 @@
+
+   body{
+        background: gray;
+        background-image: url('../images/besta.webp');
+        background-color:gray /* Used if the image is unavailable */
+        height: 500px; /* You must set a specified height */
+        background-position: center; /* Center the image */
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-size: cover;
+   }
+   .container{
+       padding-top: 4em;
+   }
+   .navbar-brand{
+       font-size: 10em;
+       font-style: italic;
+       font-family: 'Times New Roman', Times, serif;
+       font-weight: bolder;
+   }
+   #comment {
+
+    border: none;
+
+    background-color: #26211f;
+
+    color: white;
+
+    font-size: 16px;
+
+    margin: 4px -4px;
+
+    padding: 16px 40px;
+
+}
+h4{
+    font-weight: bolder; font-size: 3rem;
+    text-decoration-color: white;
+    color: white;
+}
+#comment1{
+    border: none;
+    background-color: olivedrab;
+    
+    margin: 4px -4px;
+
+    padding: 16px 40px;
+    padding-left: 2em;
+}
+.comments{
+    color:black
+    font-weight: bolder;
+    font-size: 1em;
+}
+center{
+    background-color: gray;
+      color:black;
+}
+.logo{
+    color:white;
+    font-size: 3rem;
+}
