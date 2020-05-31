@@ -2,10 +2,10 @@
    body{
         background: gray;
         background-image: url('../images/besta.webp');
-        background-color:gray /* Used if the image is unavailable */
-        height: 500px; /* You must set a specified height */
-        background-position: center; /* Center the image */
-        background-repeat: no-repeat; /* Do not repeat the image */
+        background-color:gray 
+        height: 500px;
+        background-position: center;
+        background-repeat: no-repeat;
         background-size: cover;
    }
    .container{
